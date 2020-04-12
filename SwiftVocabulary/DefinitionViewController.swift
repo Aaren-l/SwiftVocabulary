@@ -9,14 +9,19 @@
 import UIKit
 
 class DefinitionViewController: UIViewController {
+    
+    var vocabWord: VocabularyWord?
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
     }
     
-
+    func updateView() {
+        if let unwrappedword = vocabWord {
+            
+        }
+    }
     /*
     // MARK: - Navigation
 

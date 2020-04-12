@@ -14,7 +14,8 @@
 		5CAE2CEE244178E9008418C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CAE2CEC244178E9008418C9 /* LaunchScreen.storyboard */; };
 		5CAE2CF62441794C008418C9 /* WordsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CAE2CF52441794C008418C9 /* WordsTableViewController.swift */; };
 		5CAE2CF82441796E008418C9 /* DefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CAE2CF72441796E008418C9 /* DefinitionViewController.swift */; };
-		5CAE2CFC244197D6008418C9 /* VocabularyWord.Swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CAE2CFB244197D6008418C9 /* VocabularyWord.Swift */; };
+		5CAE2CFC244197D6008418C9 /* VocabularyWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CAE2CFB244197D6008418C9 /* VocabularyWord.swift */; };
+		5CAE2CFE2442D258008418C9 /* deleteThisTableTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CAE2CFD2442D258008418C9 /* deleteThisTableTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +28,8 @@
 		5CAE2CEF244178E9008418C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5CAE2CF52441794C008418C9 /* WordsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordsTableViewController.swift; sourceTree = "<group>"; };
 		5CAE2CF72441796E008418C9 /* DefinitionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefinitionViewController.swift; sourceTree = "<group>"; };
-		5CAE2CFB244197D6008418C9 /* VocabularyWord.Swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabularyWord.Swift; sourceTree = "<group>"; };
+		5CAE2CFB244197D6008418C9 /* VocabularyWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabularyWord.swift; sourceTree = "<group>"; };
+		5CAE2CFD2442D258008418C9 /* deleteThisTableTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = deleteThisTableTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +70,8 @@
 				5CAE2CEF244178E9008418C9 /* Info.plist */,
 				5CAE2CF52441794C008418C9 /* WordsTableViewController.swift */,
 				5CAE2CF72441796E008418C9 /* DefinitionViewController.swift */,
-				5CAE2CFB244197D6008418C9 /* VocabularyWord.Swift */,
+				5CAE2CFB244197D6008418C9 /* VocabularyWord.swift */,
+				5CAE2CFD2442D258008418C9 /* deleteThisTableTableViewController.swift */,
 			);
 			path = SwiftVocabulary;
 			sourceTree = "<group>";
@@ -146,9 +149,10 @@
 			files = (
 				5CAE2CE2244178E7008418C9 /* AppDelegate.swift in Sources */,
 				5CAE2CE4244178E7008418C9 /* SceneDelegate.swift in Sources */,
-				5CAE2CFC244197D6008418C9 /* VocabularyWord.Swift in Sources */,
+				5CAE2CFC244197D6008418C9 /* VocabularyWord.swift in Sources */,
 				5CAE2CF62441794C008418C9 /* WordsTableViewController.swift in Sources */,
 				5CAE2CF82441796E008418C9 /* DefinitionViewController.swift in Sources */,
+				5CAE2CFE2442D258008418C9 /* deleteThisTableTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
